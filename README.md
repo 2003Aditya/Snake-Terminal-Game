@@ -20,7 +20,6 @@ This game runs **completely inside the terminal**, with smooth movement, real-ti
 
 ## 📸 Preview
 
-> *(Insert GIF or screenshot here)*
 
 ```bash
 ██████████████████████████████████████████████████████
